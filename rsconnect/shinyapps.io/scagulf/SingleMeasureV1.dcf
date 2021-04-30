@@ -1,0 +1,13 @@
+name: SingleMeasureV1
+title: SingleMeasureV1
+username:
+account: scagulf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4060173
+bundleId: 4541726
+url: https://scagulf.shinyapps.io/SingleMeasureV1/
+when: 1619820404.33995
+lastSyncTime: 1619820404.33995
+asMultiple: FALSE
+asStatic: FALSE
